@@ -29,7 +29,7 @@
    }
    .center .center1 input{
     width: 40%;
-    height: 3vh;
+    height: 5vh;
     outline: none;
     font-size: 17px;
     text-align: center;
@@ -56,6 +56,6 @@
     padding: 2px 5px;
     /* border-radius: 3px; */
     cursor: pointer;
-    height: 3vh;
+    height: 5vh;
 }
    
